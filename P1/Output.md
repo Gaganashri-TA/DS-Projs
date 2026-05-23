@@ -37,7 +37,7 @@ Generated synthetic student dataset with the following features:
 
 ## 2. Exploratory Data Analysis (EDA)
 
-![EDA Visualizations](assets/student_performance_eda.png)
+![EDA Visualizations](./Assets/student_performance_eda.png)
 
 *Comprehensive EDA showing outcome distribution, feature relationships, and correlations.*
 
@@ -75,7 +75,7 @@ Generated synthetic student dataset with the following features:
 
 ## 6. Confusion Matrix Analysis
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](./Assets/confusion_matrix.png)
 
 **Classification Report:**
 
@@ -89,7 +89,7 @@ Generated synthetic student dataset with the following features:
 
 ## 7. Risk Analysis
 
-![Risk Analysis](assets/risk_analysis.png)
+![Risk Analysis](./Assets/risk_analysis.png)
 
 ### Risk Distribution
 
@@ -130,7 +130,7 @@ Generated synthetic student dataset with the following features:
 
 ## 9. Feature Importance Analysis
 
-![Feature Importance](assets/feature_importance.png)
+![Feature Importance](./Assets/download(1).png)
 
 **Feature Coefficients** (Positive = Increases Pass Probability):
 
